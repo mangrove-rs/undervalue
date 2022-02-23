@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "undervalue-core",
+  "undervalue",
+  "undervalue-macros",
+  "undervalue-extra",
+  "examples/*",
+]
